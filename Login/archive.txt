@@ -1,0 +1,5 @@
+admin,admin,email,cf
+Simone,asd,cattaneo.simone1708@gmail.com,cf
+marco,marco,salvi.marco@gmail.com,cf
+nasa,nasa,nasa@gmail.com,nasa
+
